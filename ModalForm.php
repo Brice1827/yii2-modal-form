@@ -41,7 +41,7 @@ class ModalForm extends Widget
 
     private $_bsVersion;
 
-    public $bsVersion = 3;
+    public $bsVersion = 5;
 
     public function init()
     {
